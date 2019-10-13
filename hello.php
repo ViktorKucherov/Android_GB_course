@@ -1,3 +1,4 @@
 <?php
-    echo "HELLO GIT MOTHERFUCKER!";
+    session_start();
+    echo "Hello git!";
 ?>
